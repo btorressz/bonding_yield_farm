@@ -3,6 +3,8 @@
 
 This project implements a bonding curve-powered yield farming system using the Solana blockchain with the Anchor framework. It allows users to stake tokens, earn rewards dynamically, and manage liquidity with robust security features. This project was mainly developed in https://beta.solpg.io/ 
 
+devnet:(https://explorer.solana.com/address/AbNTrViZTe1iAXzSWPEfWqKyNhFF19MxrDss2ReNMau5?cluster=devnet)
+
 ## Features
 
 ### Dynamic Yield Farming Rewards
